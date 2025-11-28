@@ -1,17 +1,17 @@
-<h1 align="center"> Hi 👋, I'm tanab0dee!</h1>
+<h1 align="center"> Hi 👋, I'm tanabodeeb45!</h1>
 
 <div align="center">
 
-[![website](https://img.shields.io/badge/Website-000?logo=nextdotjs&logoColor=fff)](https://tanab0dee.com)
-[![studio](https://img.shields.io/badge/tanab0dee-000?logo=nextdotjs&logoColor=fff)](https://tanab0dee.com)
-[![zhihu](https://img.shields.io/badge/%40tanab0dee-0084FF?logo=zhihu&logoColor=fff)](https://www.zhihu.com/people/tanab0dee)
-[![tiktok](https://img.shields.io/badge/%40tanab0dee-000?logo=tiktok&logoColor=fff)](https://www.douyin.com/user/tanab0dee)
-[![bilibili](https://img.shields.io/badge/%40tanab0dee-00A1D6?logo=bilibili&logoColor=fff)](https://space.bilibili.com/12253098)
-[![x](https://img.shields.io/badge/%40tanab0dee-000?logo=x&logoColor=fff)](https://x.com/tanab0dee)
+[![website](https://img.shields.io/badge/Website-000?logo=nextdotjs&logoColor=fff)](https://tanabodeeb45.com)
+[![studio](https://img.shields.io/badge/tanabodeeb45-000?logo=nextdotjs&logoColor=fff)](https://tanabodeeb45.com)
+[![zhihu](https://img.shields.io/badge/%40tanabodeeb45-0084FF?logo=zhihu&logoColor=fff)](https://www.zhihu.com/people/tanabodeeb45)
+[![tiktok](https://img.shields.io/badge/%40tanabodeeb45-000?logo=tiktok&logoColor=fff)](https://www.douyin.com/user/tanabodeeb45)
+[![bilibili](https://img.shields.io/badge/%40tanabodeeb45-00A1D6?logo=bilibili&logoColor=fff)](https://space.bilibili.com/12253098)
+[![x](https://img.shields.io/badge/%40tanabodeeb45-000?logo=x&logoColor=fff)](https://x.com/tanabodeeb45)
 
 </div>
 
-Hi, I'm tanab0dee, a graduate of *NU* and currently a Back-End Developer *@Studiotwist*.
+Hi, I'm tanabodeeb45, a graduate of *NU* and currently a Back-End Developer *@Studiotwist*.
 
 They say the best time to plant a tree was ten years ago — and the second best time is now.
 
@@ -61,6 +61,6 @@ Basically I use `Nest.js`/`Redis`/`MQTT`/`Postgresql`/`Golang` for back-end.
 
 ### Overview
 <p>
-  <img height="180em" src="https://github-readme-stats-rouge-pi.vercel.app/api?username=tanab0dee&theme=buefy&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-rouge-pi.vercel.app/api/top-langs/?username=tanab0dee&theme=buefy&layout=compact&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-rouge-pi.vercel.app/api?username=tanabodeeb45&theme=buefy&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-rouge-pi.vercel.app/api/top-langs/?username=tanabodeeb45&theme=buefy&layout=compact&hide_border=true" />
 </p>
