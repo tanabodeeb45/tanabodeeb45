@@ -1,25 +1,7 @@
 <h1 align="center"> Hi 👋, I'm maikyy!</h1>
 
 <div align="center">
-
-[![website](https://img.shields.io/badge/Website-000?logo=nextdotjs&logoColor=fff)](https://tanabodeeb45.com)
-[![studio](https://img.shields.io/badge/tanabodeeb45-000?logo=nextdotjs&logoColor=fff)](https://tanabodeeb45.com)
-[![zhihu](https://img.shields.io/badge/%40tanabodeeb45-0084FF?logo=zhihu&logoColor=fff)](https://www.zhihu.com/people/tanabodeeb45)
-[![tiktok](https://img.shields.io/badge/%40tanabodeeb45-000?logo=tiktok&logoColor=fff)](https://www.douyin.com/user/tanabodeeb45)
-[![bilibili](https://img.shields.io/badge/%40tanabodeeb45-00A1D6?logo=bilibili&logoColor=fff)](https://space.bilibili.com/12253098)
-[![x](https://img.shields.io/badge/%40tanabodeeb45-000?logo=x&logoColor=fff)](https://x.com/tanabodeeb45)
-
 </div>
-
-Hi, I'm tanabodeeb45, a graduate of *NU* and currently a Back-End Developer *@Studiotwist*.
-
-They say the best time to plant a tree was ten years ago — and the second best time is now.
-
-### Blogs & Articles
-
-- 🚀 incoming...
-- 🚧 incoming...
-- 🔗 incoming...
 
 ### Tech-Stack
 
@@ -51,13 +33,6 @@ Basically I use `Nest.js`/`Redis`/`MQTT`/`Postgresql`/`Golang` for back-end.
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-
-### Projects
-
-- 📖 incoming...
-- ✨ incoming...
-- 🎵 incoming...
-- 🚀 incoming...
 
 ### Overview
 <p>
